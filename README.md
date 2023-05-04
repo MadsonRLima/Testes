@@ -4,5 +4,5 @@
 
 
 ->
-Para iniciar o desenvolvimento é necessário
+node app.js
 <-
